@@ -1,0 +1,5 @@
+git+https://github.com/bwlewis/irlbpy.git#egg=irlb
+statistics==1.0.3.5
+git+https://github.com/cjekel/similarity_measures
+matplotlib
+sklearn
